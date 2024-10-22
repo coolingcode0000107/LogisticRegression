@@ -1,0 +1,2 @@
+# LogisticRegression
+python实现的一个逻辑回归函数
